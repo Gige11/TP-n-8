@@ -1,0 +1,5 @@
+Jabon,2126,120,3
+Chocolate,1366,350,2
+Dulce de leche,1736,500,1
+Fideos,1221,280,2
+escarbadientes,1111,80,1
